@@ -49,15 +49,15 @@ social:
    icon_pack: ai
    link: https://docs.google.com/document/d/1dfXXE6UHt0BeD9piTLnx_WWyDGZ06DW8eMqydqOAbuY/edit?usp=sharing
 superuser: yes
-bio: My research interests include leadership, team science, and open science
-greeting: alzahawi::shilaan()
+bio: My research interests include infant social cognition, emotion reasoning, and object representation.
+greeting: alexis::smith-flores()
 ---
 
-I'm a Master student in [**Statistical Science**](https://studiekiezer.ugent.be/master-of-science-in-statistical-data-analysis-en/2021) at Ghent University, a PhD candidate in [**Organizational Behavior**](https://www.gsb.stanford.edu/programs/phd/fields/organizational-behavior) at the Stanford Graduate School of Business, and a [**Stanford Data Science Scholar**](https://datascience.stanford.edu/programs/stanford-data-science-scholars-program). Stanford Data Science Scholars are early-career researchers from all parts of the University who are using and developing data science methods in their research.  
+I study tiny humans and their development. The world is full of rich social information, like emotions and group dynamics. I’m interested in how infants and children use social information to make sense of their perceptual world and how this information can inform their representations of objects and agents.
 
-I'm interested in Organizational Behavior, with a special interest in Leadership and Managing Groups and Teams. In addition to my substantive work in Organizational Behavior, I'm interested in meta-science and methods. My favorite letter in the alphabet is <i class="fab fa-r-project" aria-hidden="true" style="color:#035AA6"></i>, and I am weirdly evangelical about it. In my free time, I enjoy deadlifting, hiking, and taking board games much too seriously. 
+I am currently a third year graduate student at the University of California, San Diego working with Dr. Lindsey Powell in the [**Social Cognition and Learning (SoCal) Lab**](http://socallab.ucsd.edu/). I am currently funded by a Ford Foundation Predoctoral Fellowship and the UCSD Cota-Robles Fellowship. 
 
-I'm always looking for ways to contribute to large-scale efforts that aim to improve the rigor and reproducibility of (behavioral) science. For example, I'm an Affiliate at the [**Stanford Data Science Center for Open and Reproducible Science**](https://datascience.stanford.edu/cores) (SDS-CORES); a reproduction and replication analyst with the [**Center for Open Science DARPA-SCORE**](https://www.cos.io/score) project; and an ex-officio member of the [**Executive Board**](https://improvingpsych.org/board/) of [**SIPS**](https://improvingpsych.org) (The Society for the Improvement of Psychological Science). I was also involved as a mentor at the [**NASA TOPS (Transform to Open Science) Mission**](https://science.nasa.gov/open-science/transform-to-open-science), where I led a team of subject-matter experts in developing a curriculum on Open Science Tools and Resources.  
+During my undergraduate program at Boston University, I worked with Dr. Melissa Kibbe in the {**Developing Minds Lab**](http://www.bu.edu/cdl/developing-minds-lab/). After undergrad, I worked as the lab manager for the [**Johns Hopkins University Lab for Child Development**](https://labforchilddevelopment.com/) directed by Drs. Lisa Feigenson and Justin Halberda.
 
 <center> 
 
