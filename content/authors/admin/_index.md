@@ -19,7 +19,7 @@ interests:
 - Object Representation
 - Open Science
 organizations:
-- name: UC San Diego | Social Cognition and Learning (SoCal) Lab
+- name: UC San Diego\nSocial Cognition and Learning (SoCal) Lab
   url: https://socallab.ucsd.edu
 role: PhD student in Experimental Psychology
 social:
