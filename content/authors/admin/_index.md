@@ -1,35 +1,27 @@
 ---
-title: "Shilaan Alzahawi"
+title: "Alexis Smith-Flores"
 education:
   courses:
-  - course: PhD in Organizational Behavior
-    institution: Stanford University
+  - course: PhD in Experimental Psychology
+    institution: UC San Diego
     year: Expected 2025
-  - course: MSc in Statistical Science
-    institution: Ghent University
-    year: Expected 2023
-  - course: MSc in Business Administration
-    institution: Rotterdam School of Management
-    year: 2017
-  - course: BSc in Public Administration Science
-    institution: Erasmus School of Social and Behavioral Sciences
-    year: 2014
-  - course: LLB in Law
-    institution: Erasmus School of Law
-    year: 2014
-email: shilaan@stanford.edu
+  - course: MA in Experimental Psychology
+    institution: UC San Diego
+    year: 2022
+  - course: BA in Psychology - Cum Laude with Honors
+    institution: Boston University
+    year: 2018
+email: alexis-smith@ucsd.edu
 highlight_name: no
 interests:
-- Organizational Behavior 
-- Leadership
-- Managing Groups and Teams
-- Team and Crowd Science 
+- Social Cognition 
+- Emotion Reasoning
+- Object Representation
 - Open Science
-- Statistical Inference
 organizations:
-- name: Stanford University
-  url: https://datascience.stanford.edu/people/shilaan-alzahawi
-role: PhD candidate in Organizational Behavior
+- name: UC San Diego | Social Cognition and Learning (SoCal) Lab
+  url: https://socallab.ucsd.edu
+role: PhD student in Experimental Psychology
 social:
 - icon: envelope
   icon_pack: fas
