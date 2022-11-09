@@ -19,42 +19,35 @@ interests:
 - Object Representation
 - Open Science
 organizations:
-- name: UC San Diego
-  name: Social Cognition and Learning (SoCal) Lab
+- name: UC San Diego | SoCal Lab
   url: https://socallab.ucsd.edu
 role: PhD student in Experimental Psychology
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:shilaan@stanford.edu 
+  link: mailto:alexis-smith@ucsd.edu
 - display:
     header: yes
   icon: twitter
   icon_pack: fab
   label: Find me on Twitter
-  link: https://twitter.com/shilaan01
+  link: https://twitter.com/asmithflores
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=FNPgIGAAAAAJ&hl=en&oi=sra
+  link: https://scholar.google.com/citations?user=f_E1Za4AAAAJ&hl=en&oi=sra
 - icon: osf
   icon_pack: ai
-  link: https://osf.io/ug7xd/ 
+  link: https://osf.io/uwr56/
 - icon: orcid
   icon_pack: ai
-  link: http://orcid.org/0000-0002-6892-4643 
-- icon: github
-  icon_pack: fab
-  link: https://github.com/shilaan
+  link: https://orcid.org/0000-0002-6755-4986
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/shilaanalzahawi/
-# - icon: instagram
-#   icon_pack: fab
-#   link: https://www.instagram.com/shilaan01/ 
-# Link to a PDF of your resume/CV.
-# - icon: cv
-#   icon_pack: ai
-#   link: cv/shilaan.pdf
+  link: https://www.linkedin.com/in/asmithflores/
+#Link to a PDF of your resume/CV.
+- icon: cv
+   icon_pack: ai
+   link: https://docs.google.com/document/d/1dfXXE6UHt0BeD9piTLnx_WWyDGZ06DW8eMqydqOAbuY/edit?usp=sharing
 superuser: yes
 bio: My research interests include leadership, team science, and open science
 greeting: alzahawi::shilaan()
