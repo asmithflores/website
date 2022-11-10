@@ -23,7 +23,7 @@ tags:
 title: "Yay! Yuck!" Toddlers use others’ emotional responses to reason about hidden objects
 url_code: https://osf.io/u48gb/
 url_dataset: https://osf.io/u48gb/
-url_pdf: content/publication/yayyuck/yayyuck.pdf
+url_pdf: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
