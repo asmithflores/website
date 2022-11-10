@@ -21,7 +21,7 @@ main:
     weight: 50
   - name: Service
     url: '#service'
-    weight: 70
+    weight: 60
     - name: Blog Posts
     url: '#posts'
-    weight: 80
+    weight: 70
