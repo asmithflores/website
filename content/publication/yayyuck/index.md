@@ -5,7 +5,7 @@ authors:
 - admin
 - Lisa Feigenson
 # date: "2013-07-01T00:00:00Z"
-doi: ""
+doi: "10.1016/j.jecp.2022.105464"
 featured: true
 image:
   caption: ""
@@ -13,11 +13,11 @@ image:
   preview_only: false
 projects:
 - example
-publication: Journal of Experimental Child Psychology
+publication: '*Journal of Experimental Child Psychology, 221*(105464)'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2022-09-01T00:00:00Z"
 tags: []
 title: Yay! Yuck! Toddlers use others' emotional responses to reason about hidden objects
 url_code: https://osf.io/u48gb/
@@ -27,9 +27,6 @@ url_poster: "yayyuck.png"
 url_project: ""
 url_slides: ""
 url_source: ""
-url_video: ""
+url_video: "video.mp4"
 ---
 
-
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
