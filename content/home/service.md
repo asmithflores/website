@@ -7,9 +7,9 @@ widget: service
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 60
 
-title: Experience
+title: Serivce
 subtitle:
 
 # Date format for experience
