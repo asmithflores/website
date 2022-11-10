@@ -16,12 +16,12 @@ main:
   - name: Research
     url: '#research'
     weight: 40
-  - name: Teaching & Mentorship
+  - name: Teaching
     url: '#teaching'
     weight: 50
   - name: Service
     url: '#service'
     weight: 60
-    - name: Blog Posts
+  - name: Blog
     url: '#posts'
     weight: 70
