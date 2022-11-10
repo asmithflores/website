@@ -16,7 +16,7 @@ publication_short: ""
 publication_types:
 - "2"
 publishDate: "2022-01-01T00:00:00Z"
-poster: content/publication/yayyuck/poster.png
+poster: poster/yayyuck.png
 - Source Themes
 title: Yay! Yuck! Toddlers use others’ emotional responses to reason about hidden objects
 url_code: https://osf.io/u48gb/
