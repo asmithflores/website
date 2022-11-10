@@ -7,7 +7,7 @@ date: "2022-01-01T00:00:00Z"
 doi: https://doi.org/10.1016/j.jecp.2022.105464
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 
   focal_point: ""
   preview_only: false
 projects: []
