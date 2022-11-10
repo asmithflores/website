@@ -3,7 +3,7 @@ name = "Minimal"
 
 [light]
   # Primary
-  primary = "#2F3C30"
+  primary = "#651D32"
 
   # Menu
   menu_primary = "#fff"
