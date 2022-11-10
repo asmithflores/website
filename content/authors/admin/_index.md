@@ -56,6 +56,3 @@ I am currently a third year graduate student at the University of California, Sa
 During my undergraduate program at Boston University, I worked with Dr. Melissa Kibbe in the [**Developing Minds Lab**](http://www.bu.edu/cdl/developing-minds-lab/). After undergrad, I worked as the lab manager for the [**Johns Hopkins University Lab for Child Development**](https://labforchilddevelopment.com/) directed by Drs. Lisa Feigenson and Justin Halberda. 
 
 <center> 
-
-#### <i class="fa fa-download" aria-hidden="true" style="color:#035AA6"></i> {{< staticref "https://docs.google.com/document/d/1dfXXE6UHt0BeD9piTLnx_WWyDGZ06DW8eMqydqOAbuY" "newtab" >}}Download my CV{{< /staticref >}}
-</center> 
