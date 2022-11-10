@@ -57,5 +57,5 @@ During my undergraduate program at Boston University, I worked with Dr. Melissa 
 
 <center> 
 
-#### <i class="fa fa-download" aria-hidden="true" style="color:#035AA6"></i> {{< staticref "https://docs.google.com/document/d/1dfXXE6UHt0BeD9piTLnx_WWyDGZ06DW8eMqydqOAbuY/edit" "newtab" >}}Download my CV{{< /staticref >}}
+#### <i class="fa fa-download" aria-hidden="true" style="color:#035AA6"></i> {{< staticref "https://docs.google.com/document/d/1dfXXE6UHt0BeD9piTLnx_WWyDGZ06DW8eMqydqOAbuY" "newtab" >}}Download my CV{{< /staticref >}}
 </center> 
