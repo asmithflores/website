@@ -14,7 +14,7 @@ projects: []
 publication: '*Journal of Experimental Child Psychology, 221*(105464)'
 publication_short: ""
 publication_types:
-- "1"
+- "2"
 publishDate: "2022-01-01T00:00:00Z"
 slides: example
 summary: ""
