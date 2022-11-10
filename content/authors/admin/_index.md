@@ -51,7 +51,7 @@ greeting: alexis::smith-flores()
 
 I study tiny humans and their development. The world is full of rich social information, like emotions and group dynamics. I’m interested in how infants and children use social information to make sense of their perceptual world and how this information can inform their representations of objects and agents.
 
-I am currently a third year graduate student at the University of California, San Diego working with Dr. Lindsey Powell in the [**Social Cognition and Learning (SoCal) Lab**](http://socallab.ucsd.edu/). I am currently funded by a Ford Foundation Predoctoral Fellowship and the UCSD Cota-Robles Fellowship. 
+I am currently a third year graduate student at the University of California, San Diego working with Dr. Lindsey Powell in the [**Social Cognition and Learning (SoCal) Lab**](http://socallab.ucsd.edu/). I am funded by a Ford Foundation Predoctoral Fellowship from and the UCSD Cota-Robles Fellowship. 
 
 During my undergraduate program at Boston University, I worked with Dr. Melissa Kibbe in the [**Developing Minds Lab**](http://www.bu.edu/cdl/developing-minds-lab/). After undergrad, I worked as the lab manager for the [**Johns Hopkins University Lab for Child Development**](https://labforchilddevelopment.com/) directed by Drs. Lisa Feigenson and Justin Halberda. 
 
