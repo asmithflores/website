@@ -1,7 +1,7 @@
 ---
-# An instance of the Accomplishments widget.
+# An instance of the Experience widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: accomplishments
+widget: experience
 
 # This file represents a page section.
 headless: true
@@ -9,44 +9,57 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-# Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: "Teaching & Mentorship"
 subtitle:
 
-# Date format
+# Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006
 
-# Accomplishments.
-#   Add/remove as many `item` blocks below as you like.
-#   `title`, `organization`, and `date_start` are the required parameters.
-#   Leave other parameters empty if not required.
+# Experiences.
+#   Add/remove as many `experience` items below as you like.
+#   Required fields are `title`, `company`, and `date_start`.
+#   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-item:
-  - certificate_url: https://www.coursera.org
-    date_end: ''
-    date_start: '2021-01-25'
-    description: ''
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
-    url: ''
-  - certificate_url: https://www.edx.org
-    date_end: ''
+experience:
+  - title: Instructor
+    company: UC San Diego
+    company_url: ''
+    company_logo: ucsd
+    location: California
+    date_start: '2021-06-01'
+    date_end: '2021-07-30'
+    description: |2-
+        Courses Taught:
+        
+        * Summer 2021: Fundamentals of R Summer Workshop
+
+  - title: Teaching Assistant
+    company: UC San Diego
+    company_url: ''
+    company_logo: ucsd
+    location: California
     date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
-    description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
-    url: ''
+    date_end: ''
+    description: |2-
+        Courses Taught:
+        
+        * Spring 2023: Honors in Psychology Research Methods B
+        * Spring 2023: Honors in Psychology Research Methods A
+        * Fall 2022: Introduction to R for Social Sciences
+        * Spring 2022: Psychology Research Methods: Lab 
+        * Fall 2021: Psychology Research Methods: Lab
+        * Winter 2021: Psychology Research Methods
+
+  - title: Certification
+    company: UC San Diego
+    company_url: ''
+    company_logo: ucsd
+    location: California
+    date_start: '2021-10-01'
+    date_end: '2021-12-08'
+    description: |2-
+        Workshop Series on Teaching and Mentoring in Psychology
 
 design:
   columns: '2'
