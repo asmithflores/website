@@ -19,73 +19,19 @@ subtitle: "Welcome \U0001F44B We know that first impressions are important, so w
 summary: 
 tags:
 - Graduate School
-title: "track changes: coping with the modern red pen""
+title: "track changes: coping with the modern red pen"
 ---
 
-```python
-import libr
-print('hello')
-```
+I follow Paul Bloom on Twitter and on Thursday he posted a screenshot of a paper submission response to JECP. It had been rejected. Rejection, negative feedback, and criticism, I have come to learn, are major facets of academia (even for Paul Bloom). I haven't had to experience the rejection of a manuscript at this point in my life since I haven't tried to submit one yet, but it's inevitable really. The closest rejection for me is probably getting drafts back from my undergraduate PI.
 
-## Overview
+The first time she returned something to me, it was covered in red underlines and strikethroughs alongside a myriad of comments. I think I cried? I can't really remember. I do remember getting really embarrassed so there may have been a tear or two. I had never had so much of my work rearranged and crossed out. Not even in high school.
 
-1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
-2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
-3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
+In high school, I'd won awards for writing; I was in Journalism, I was the president of a club that produced an underground newspaper. I thought myself pretty good at writing; so good that I enrolled as a Psychology and English/Creative Writing double major. After my first semester, I dropped the English/CW major. It was too intense and I had no interest in reading or analyzing British Literature circa the 1500s. The only good part of that exploration was meeting one of my best friends, but I digress. During that semester, I did get a few comments on English papers, but not an astonishing amount. Definitely not compared to this aforementioned document. I mention this, not to brag, but to give you a picture of how unprepared I was for this reply.
 
-[![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.](https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png)](https://wowchemy.com)
+The document was an undergraduate research funding application, so of course, it had to be perfect and it had to be competitive. It was the first time I had written anything about my ongoing research so you could argue I should have been more prepared. I was naive, sue me.
 
-## Get Started
+Anyway, my PI emails it back to me and I'm thinking that there are definitely things I can improve, so of course there would probably be a few comments. Nope. It is covered in tracked changes. Almost every line. My first thought was probably, she thinks I am an idiot. There was certainly no other explanation at the time. After digesting the amount of red on the document, I made the changes and it did look a lot better. It read a lot smoother and it did a better job of selling my work as something important. I mean, everyone thinks their work is important, but selling it is probably the hardest part. The project ended up getting funded for two semesters.
 
-- 👉 [**Create a new site**](https://wowchemy.com/templates/)
-- 📚 [**Personalize your site**](https://wowchemy.com/docs/)
-- 💬 [Chat with the **Wowchemy community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=%23MadeWithWowchemy&src=typed_query)
-- 💡 [Request a **feature** or report a **bug** for _Wowchemy_](https://github.com/wowchemy/wowchemy-hugo-themes/issues)
-- ⬆️ **Updating Wowchemy?** View the [Update Tutorial](https://wowchemy.com/docs/hugo-tutorials/update/) and [Release Notes](https://wowchemy.com/updates/)
+That was definitely not the last time this would happen. I still cringe when I open the documents she sends back to me and I can never use the word utilize again, but I know that she wouldn't spend her time editing if she didn't care, so that helps me sleep better at night. It has also helped me learn feedback is a big part of academia, negative or positive. I will literally receive feedback like this from reviewers, from new PIs, from people in my field at conferences for the rest of my life (hopefully). Honestly, I would much rather receive edits on my entire paper than submit something mediocre.
 
-## Crowd-funded open-source software
-
-To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
-
-### [❤️ Click here to become a sponsor and help support Wowchemy's future ❤️](https://wowchemy.com/sponsor/)
-
-As a token of appreciation for sponsoring, you can **unlock [these](https://wowchemy.com/sponsor/) awesome rewards and extra features 🦄✨**
-
-## Ecosystem
-
-- **[Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli):** Automatically import publications from BibTeX
-
-## Inspiration
-
-[Check out the latest **demo**](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the **showcase**](https://wowchemy.com/user-stories/) of personal, project, and business sites.
-
-## Features
-
-- **Page builder** - Create _anything_ with [**widgets**](https://wowchemy.com/docs/page-builder/) and [**elements**](https://wowchemy.com/docs/content/writing-markdown-latex/)
-- **Edit any type of content** - Blog posts, publications, talks, slides, projects, and more!
-- **Create content** in [**Markdown**](https://wowchemy.com/docs/content/writing-markdown-latex/), [**Jupyter**](https://wowchemy.com/docs/import/jupyter/), or [**RStudio**](https://wowchemy.com/docs/install-locally/)
-- **Plugin System** - Fully customizable [**color** and **font themes**](https://wowchemy.com/docs/customization/)
-- **Display Code and Math** - Code highlighting and [LaTeX math](https://en.wikibooks.org/wiki/LaTeX/Mathematics) supported
-- **Integrations** - [Google Analytics](https://analytics.google.com), [Disqus commenting](https://disqus.com), Maps, Contact Forms, and more!
-- **Beautiful Site** - Simple and refreshing one page design
-- **Industry-Leading SEO** - Help get your website found on search engines and social media
-- **Media Galleries** - Display your images and videos with captions in a customizable gallery
-- **Mobile Friendly** - Look amazing on every screen with a mobile friendly version of your site
-- **Multi-language** - 34+ language packs including English, 中文, and Português
-- **Multi-user** - Each author gets their own profile page
-- **Privacy Pack** - Assists with GDPR
-- **Stand Out** - Bring your site to life with animation, parallax backgrounds, and scroll effects
-- **One-Click Deployment** - No servers. No databases. Only files.
-
-## Themes
-
-Wowchemy and its templates come with **automatic day (light) and night (dark) mode** built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the [Demo](https://academic-demo.netlify.com/) to see it in action! Day/night mode can also be disabled by the site admin in `params.toml`.
-
-[Choose a stunning **theme** and **font**](https://wowchemy.com/docs/customization) for your site. Themes are fully customizable.
-
-## License
-
-Copyright 2016-present [George Cushen](https://georgecushen.com).
-
-Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md) license.
+This was a really hard thing for me to learn, but I think it's really important to adapt to. Receiving negative feedback well is also a strong skill to have. During one of my lab manager interviews, the PI had me list a few examples of me taking in critical feedback effectively and then we had a long chat about how people who do not take well to negative criticism may not fare well in academia long term. Point being, PIs give negative feedback to their mentees and students because no one will coddle them during submission reviews. They want you to succeed and they can help you do it by making you think critically about your writing. So next time you get a paper back covered in tracked changes, just know that it probably won't be your last and that's not necessarily a bad thing at all.
