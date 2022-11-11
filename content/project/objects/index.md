@@ -6,7 +6,7 @@ image:
   focal_point: 
 links:
 slides:
-summary: How do infants and children represent and reason objects in the context of social information?
+summary: How do infants and children represent and reason about objects in the context of social information?
 tags:
 - objects
 title: "Understanding of objects in social contexts."
