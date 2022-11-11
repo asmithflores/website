@@ -44,6 +44,12 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/asmithflores/
+- icon: cv
+  icon_pack: ai
+  link: https://docs.google.com/document/d/1dfXXE6UHt0BeD9piTLnx_WWyDGZ06DW8eMqydqOAbuY
+- icon: file-user
+  icon_pack: fab
+  link: https://docs.google.com/document/d/1QsAxmN-xwWljaR8n3qEsx0BRefQ7HP5knqGX1HasPwc/edit?usp=sharing
 superuser: yes
 bio: My research interests include infant social cognition, emotion reasoning, and object representation.
 greeting: alexis::smith-flores()
@@ -54,9 +60,3 @@ I study tiny humans and their development. The world is full of rich social info
 I am currently a third year graduate student at the University of California, San Diego working with Dr. Lindsey Powell in the [**Social Cognition and Learning (SoCal) Lab**](http://socallab.ucsd.edu/). I am funded by a Ford Foundation Predoctoral Fellowship and UCSD's Cota-Robles Fellowship.
 
 During my undergraduate program at Boston University, I worked with Dr. Melissa Kibbe in the [**Developing Minds Lab**](http://www.bu.edu/cdl/developing-minds-lab/). After undergrad, I worked as the lab manager for the [**Johns Hopkins University Lab for Child Development**](https://labforchilddevelopment.com/) directed by Drs. Lisa Feigenson and Justin Halberda.
-
-<center>
-
-[CV](https://docs.google.com/document/d/1dfXXE6UHt0BeD9piTLnx_WWyDGZ06DW8eMqydqOAbuY) \| [resume](https://docs.google.com/document/d/1QsAxmN-xwWljaR8n3qEsx0BRefQ7HP5knqGX1HasPwc/edit?usp=sharing)
-
-<center>
