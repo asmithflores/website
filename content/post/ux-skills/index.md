@@ -3,7 +3,7 @@ authors:
 - admin
 categories:
 - ux
-date: "2021-01-26T00:00:00Z"
+date: "2022-08-30T00:00:00Z"
 draft: false
 featured: false
 image:
