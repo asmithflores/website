@@ -37,7 +37,7 @@ experience:
     company_logo: lcd
     location: Baltimore, MD
     date_start: '2018-07-09'
-    date_end: '2022-07-30'
+    date_end: '2020-07-30'
     description: 
     
   - title: Clinical Assistant
