@@ -31,8 +31,8 @@ experience:
     date_end: '2022-10-28'
     description: |2-
         Organized a two-day virtual event for potential PhD applicants from underrepresented and minoritized backgrounds to prepare students for the graduate admissions process in psychology. 
-
-[Initial Proposal](https://drive.google.com/file/d/1_cxj6vgJEQlgixNRIcj5KaUNJozfjU76/view?usp=share_link) | [Event Report](https://docs.google.com/presentation/d/108TTgjmNTjCmEOsWkFOc2vpEUFKwtXIDno4YZIlv-_4/edit?usp=share_link)
+        * [Initial Proposal](https://drive.google.com/file/d/1_cxj6vgJEQlgixNRIcj5KaUNJozfjU76/view?usp=share_link) 
+        * [Event Report](https://docs.google.com/presentation/d/108TTgjmNTjCmEOsWkFOc2vpEUFKwtXIDno4YZIlv-_4/edit?usp=share_link)
 
   - title: Professor of Semiconductor Physics
     company: University X
