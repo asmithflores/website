@@ -14,7 +14,7 @@ image:
   focal_point: ""
   preview_only: false
 projects:
-- example
+- objects
 publication: '*Infancy, 27*(1)'
 publication_short: ""
 publication_types:

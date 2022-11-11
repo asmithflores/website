@@ -12,7 +12,8 @@ image:
   focal_point: ""
   preview_only: false
 projects:
-- example
+- objects
+- agents
 publication: '*Journal of Experimental Child Psychology, 221*(105464)'
 publication_short: ""
 publication_types:

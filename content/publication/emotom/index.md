@@ -12,7 +12,8 @@ image:
   focal_point: ""
   preview_only: false
 projects:
-- example
+- emotions
+- objects
 publication: '*Cognitive Development, 59*(101081)'
 publication_short: ""
 publication_types:

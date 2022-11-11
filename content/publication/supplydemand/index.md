@@ -14,7 +14,7 @@ image:
   focal_point: ""
   preview_only: false
 projects:
-- example
+- objects
 publication: '*Cognition, 214*(104747)'
 publication_short: ""
 publication_types:

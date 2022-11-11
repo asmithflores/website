@@ -13,7 +13,8 @@ image:
   focal_point: ""
   preview_only: false
 projects:
-- example
+- emotions
+- agents
 publication: '*PsyArXiV Preprints*'
 publication_short: ""
 publication_types:

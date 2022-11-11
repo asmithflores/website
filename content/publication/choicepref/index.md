@@ -15,7 +15,7 @@ image:
   focal_point: ""
   preview_only: false
 projects:
-- example
+- objects
 publication: '*Psychological Science, 31*(11)'
 publication_short: ""
 publication_types:
