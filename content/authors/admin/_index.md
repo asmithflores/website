@@ -49,10 +49,14 @@ bio: My research interests include infant social cognition, emotion reasoning, a
 greeting: alexis::smith-flores()
 ---
 
-I study tiny humans and their development. The world is full of rich social information, like emotions and group dynamics. I’m interested in how infants and children use social information to make sense of their perceptual world and how this information can inform their representations of objects and agents.
+I study tiny humans and their development. The world is full of rich social information, like emotions and group dynamics. I'm interested in how infants and children use social information to make sense of their perceptual world and how this information can inform their representations of objects and agents.
 
-I am currently a third year graduate student at the University of California, San Diego working with Dr. Lindsey Powell in the [**Social Cognition and Learning (SoCal) Lab**](http://socallab.ucsd.edu/). I am funded by a Ford Foundation Predoctoral Fellowship and UCSD's Cota-Robles Fellowship. 
+I am currently a third year graduate student at the University of California, San Diego working with Dr. Lindsey Powell in the [**Social Cognition and Learning (SoCal) Lab**](http://socallab.ucsd.edu/). I am funded by a Ford Foundation Predoctoral Fellowship and UCSD's Cota-Robles Fellowship.
 
-During my undergraduate program at Boston University, I worked with Dr. Melissa Kibbe in the [**Developing Minds Lab**](http://www.bu.edu/cdl/developing-minds-lab/). After undergrad, I worked as the lab manager for the [**Johns Hopkins University Lab for Child Development**](https://labforchilddevelopment.com/) directed by Drs. Lisa Feigenson and Justin Halberda. 
+During my undergraduate program at Boston University, I worked with Dr. Melissa Kibbe in the [**Developing Minds Lab**](http://www.bu.edu/cdl/developing-minds-lab/). After undergrad, I worked as the lab manager for the [**Johns Hopkins University Lab for Child Development**](https://labforchilddevelopment.com/) directed by Drs. Lisa Feigenson and Justin Halberda.
 
-<center> 
+<center>
+
+[View my CV](https://docs.google.com/document/d/1dfXXE6UHt0BeD9piTLnx_WWyDGZ06DW8eMqydqOAbuY) \| [View my resume](https://docs.google.com/document/d/1QsAxmN-xwWljaR8n3qEsx0BRefQ7HP5knqGX1HasPwc/edit?usp=sharing)
+
+<center>
