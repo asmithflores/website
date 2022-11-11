@@ -19,7 +19,7 @@ publication: '*Cognition, 214*(104747)'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2021-09-01T00:00:00Z"
+publishDate: "2021-06-01T00:00:00Z"
 tags: 
 title: "Children's understanding of economic demand: A dissociation between inference and choice"
 url_code: ""
