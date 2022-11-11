@@ -18,6 +18,7 @@ summary:
 tags:
 - Graduate School
 title: "an applicant’s guide to phd interviews: they’re not as scary as you think"
+slug: '2021/01/26/an-applicants-guide-to-phd-interviews-theyre-not-as-scary-as-you-think/'
 ---
 
 A few months ago I wrote about my experience applying to graduate school as someone with a first-generation, low SES background ([you can read that post here](https://asmithflores.netlify.app/post/apply-budget/)). Since publishing that post, I've mentored four undergraduate and post-baccalaureate students through the application process. However, now we've entered interview season, which is a little outside the scope of that initial post. On Sunday, I decided that sharing my experience with interviews might be just as helpful, so I have polled Twitter and my mentees to determine what burning questions exist for current applicants. So as Philip DeFranco would say, "Let's just jump into it".

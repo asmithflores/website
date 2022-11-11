@@ -18,6 +18,7 @@ summary:
 tags:
 - Graduate School
 title: "applying to grad school on a budget and navigating the process: a saga"
+slug: '2020/06/16/applying-to-grad-school-on-a-budget-and-navigating-the-process-a-saga/'
 editor_options: 
   markdown: 
     wrap: sentence
@@ -97,7 +98,7 @@ So now we have our budget.
 The maximum number I can afford to spend (\$1015).
 What now?
 
-## applying strategically 
+## applying strategically
 
 Alright, let's work on that list of programs you made.
 I'll just use my list, I'm sure the programs won't mind.
@@ -152,17 +153,17 @@ I opted to apply to the person that didn't respond, just because the location of
 I'll come back to her in the applying to fee waivers section, but I sent Lindsey an email too and she responded later in the week.
 Again, you can always add people!
 
-## applying for fee waivers 
+## applying for fee waivers
 
 Wonderful!
 You have your final list of faculty members and programs!
 
-### GRE Fee Waivers 
+### GRE Fee Waivers
 
 Maybe let's back up one step and address the elephant in the room, the GRE.
 An expensive necessity for programs.
 Here's what I recommend.
-**If you are a senior undergraduate student and your expected family contribution, according to your FAFSA, is lower than average, you receive financial aid, or you come from an economically disadvantaged household, talk to your financial aid office about a GRE fee waiver letter.** [Here's the link to the ETS GRE fee waiver form!](https://www.ets.org/gre/score-users/reducing-barriers/fee-reductions.html) 
+**If you are a senior undergraduate student and your expected family contribution, according to your FAFSA, is lower than average, you receive financial aid, or you come from an economically disadvantaged household, talk to your financial aid office about a GRE fee waiver letter.** [Here's the link to the ETS GRE fee waiver form!](https://www.ets.org/gre/score-users/reducing-barriers/fee-reductions.html)
 Now, maybe you're not ready to take the GRE and want to take a gap year and study, still apply for the voucher!
 The voucher is good for a year and if you don't use it, that's okay because having the voucher makes you eligible to apply for another one the year after it expires (regardless of if you use or not)!
 With the voucher, your GRE now costs \$102.50 and the subject test costs \$75.
@@ -176,7 +177,7 @@ The GRE voucher may also help you get a fee waiver for a program's application f
 Stanford, for example, grants application fee waivers to students who receive GRE vouchers.
 Other universities use GRE vouchers as extra evidence that a student has a financial hardship and can make the case you deserve an application fee waiver.
 
-### Application Fee Waivers 
+### Application Fee Waivers
 
 Applying to fee waivers for departments is a little trickier.
 Everyone wants something specific and different from somewhere else.
@@ -208,7 +209,7 @@ Absolutely, but it was strategically allocated to programs where I had already c
 Being selective in your choices and doing research about the programs means that you're setting yourself up for success as much as you can.
 It also was a fraction of my estimated budget!
 
-## getting and navigating interviews 
+## getting and navigating interviews
 
 Okay...so I spent \$400, then what happened? 
 Traditionally, two things can happen next starting in December after applications are due.
@@ -220,7 +221,7 @@ I had informal chats with 4 of my 7 potential advisors.
 Three happened before I even submitted an application, which was also helpful in making sure I was applying to people I would realistically want to work with.
 Some advisors I chatted with twice (once before applying and once after), which was very nice, but not very common, in my experience.
 
-### Conflicting Interview Invites 
+### Conflicting Interview Invites
 
 In January, I received 4 interview invites to on-campus interviews.
 Here's where it gets expensive and also very tricky.
@@ -257,7 +258,7 @@ She often got an excited text from me before I boarded a plane pre- and post-int
 Having mentors that support you is so, so important in this process.
 They've been there, and they'll remind you there's a light at the end of the tunnel.
 
-### Paying for Interviews 
+### Paying for Interviews
 
 Now the hardest part of interviews, other than the actual interviews, is fronting the money for them.
 Some universities will pay out of their pocket for you to come to campus and interview.
@@ -300,7 +301,7 @@ Make sure you still talk to other faculty members and graduate students in the d
 See if they have an admitted students reception!
 Committing to a PhD program is a big decision, so you want to make sure it's the right fit.
 
-## deciding and negotiating 
+## deciding and negotiating
 
 Lots of people, graduate students included, will tell you that you can't negotiate your offers.
 That's...more or less true, but not entirely out of the question.
@@ -344,7 +345,7 @@ It's never too late to add a program to your list before the deadline.
 
 There's not really a good place to end this post because there are so many financial things to consider when applying to grad school, but I hope this gave you somewhere to start!
 
-## TL;DR 
+## TL;DR
 
 Applying to graduate school can be super expensive.
 Going to interviews is also expensive.

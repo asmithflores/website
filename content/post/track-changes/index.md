@@ -18,6 +18,7 @@ summary:
 tags:
 - Graduate School
 title: "track changes: coping with the modern red pen"
+slug: '2018/08/26/track-changes-coping-with-the-modern-red-pen/'
 ---
 
 I follow Paul Bloom on Twitter and on Thursday he posted a screenshot of a paper submission response to JECP. It had been rejected. Rejection, negative feedback, and criticism, I have come to learn, are major facets of academia (even for Paul Bloom). I haven't had to experience the rejection of a manuscript at this point in my life since I haven't tried to submit one yet, but it's inevitable really. The closest rejection for me is probably getting drafts back from my undergraduate PI.
