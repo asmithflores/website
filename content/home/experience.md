@@ -23,40 +23,31 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: UX Research Intern
-    company: Meta
+    company: Meta | AI Platform Research
     company_url: 'https://www.metacareers.com/areas-of-work/research/?p%5Bteams%5D%5B0%5D=Research&teams%5B0%5D=Research'
     company_logo: meta
-    location: Menlo Park, California
+    location: Menlo Park, CA
     date_start: '2022-06-15'
     date_end: '2022-08-10'
     description:
     
-  - title: Teaching Assistant
-    company: UC San Diego
-    company_url: ''
-    company_logo: ucsd
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
-    description: |2-
-        Courses Taught:
-        
-        * Spring 2023: Honors in Psychology Research Methods B
-        * Spring 2023: Honors in Psychology Research Methods A
-        * Fall 2022: Introduction to R for Social Sciences
-        * Spring 2022: Psychology Research Methods: Lab 
-        * Fall 2021: Psychology Research Methods: Lab
-        * Winter 2021: Psychology Research Methods
-
-  - title: Certification
-    company: UC San Diego
-    company_url: ''
-    company_logo: ucsd
-    location: California
-    date_start: '2021-10-01'
-    date_end: '2021-12-08'
-    description: |2-
-        Workshop Series on Teaching and Mentoring in Psychology
+  - title: Lab Manager
+    company: Johns Hopkins University | Lab for Child Development
+    company_url: 'http://labforchilddevelopment.com/'
+    company_logo: lcd
+    location: Baltimore, MD
+    date_start: '2018-07-09'
+    date_end: '2022-07-30'
+    description: 
+    
+  - title: Clinical Assistant
+    company: Boston Child Study Center
+    company_url: 'https://bostonchildstudycenter.com/child-services/pcit/'
+    company_logo: bcsc
+    location: Boston, MA
+    date_start: '2017-03-15'
+    date_end: '2018-05-20'
+    description:
 
 design:
   columns: '2'
