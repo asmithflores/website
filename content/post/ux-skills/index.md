@@ -19,6 +19,7 @@ tags:
 - UX
 - internship
 title: "from software to soft skills: A UXR internship reflection"
+slug: '2022/08/30/from-software-to-soft-skills-a-uxr-internship-reflection/'
 ---
 
 If you're new here, I did a summer internship at Meta where I worked as a Qualitative UXR on an internal mixed-methods research project. I had a lot of fun, but at least once a week someone on my team asked me if I was stressed. Possibly because my resting face gives off stressed girl energy, but maybe other interns expressed feeling overwhelmed and they wanted to check in. Who knows? 
