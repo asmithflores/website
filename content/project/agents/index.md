@@ -6,14 +6,14 @@ image:
   focal_point: 
 links:
 slides: 
-summary: An example of using the in-built project page.
+summary: How do humans across the lifespan make inferences about others' relationships and what predictions can we make from our observations?
 tags:
 - agents
-title: Example Project
+title: Inferring relationships from observed behaviors.
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
 
-We value our friends and social partners. Placing weight on our relationships when making decisions like where to move to or who to root for in a competition. 
+We value our friends and social partners - placing weight on our relationships when making decisions like where to move to or who to root for in a competition. One line of my research explores how we can use acts of prosocial and antisocial behavior to make inferences about future interactions between individuals. 
