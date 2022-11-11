@@ -34,14 +34,23 @@ experience:
         * [Initial Proposal](https://drive.google.com/file/d/1_cxj6vgJEQlgixNRIcj5KaUNJozfjU76/view?usp=share_link) 
         * [Event Report](https://docs.google.com/presentation/d/108TTgjmNTjCmEOsWkFOc2vpEUFKwtXIDno4YZIlv-_4/edit?usp=share_link)
 
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Graduate Mentor
+    company: Next-Gen Psychology Scholars Program (NPSP)
+    company_url: 'https://icd.umn.edu/outreach/next-gen-psych-scholars/'
+    company_logo: npsp
+    location: 
+    date_start: '2021-01-01'
+    date_end: ''
+    description: 
+
+  - title: Graduate Mentor
+    company: Project SHORT
+    company_url: 'https://www.project-short.com/'
+    company_logo: short
+    location: 
+    date_start: '2021-01-01'
+    date_end: ''
+    description: 
 
 design:
   columns: '2'
