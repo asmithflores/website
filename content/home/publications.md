@@ -37,5 +37,5 @@ design:
 ---
 
 {{% callout note %}}
-Looking for something specific? [Filter here.](./publication/).
+Looking for something specific? [Filter here](./publication/).
 {{% /callout %}}
