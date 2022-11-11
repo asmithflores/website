@@ -21,9 +21,9 @@ publication_types:
 - "2"
 publishDate: "2021-09-01T00:00:00Z"
 tags: 
-title: Children's understanding of economic demand: A dissociation between inference and choice
+title: "Children's understanding of economic demand: A dissociation between inference and choice"
 url_code: ""
-url_dataset: "https://data.mendeley.com/datasets/5pwm65phvm/1"
+url_dataset: https://data.mendeley.com/datasets/5pwm65phvm/1
 url_pdf: ""
 url_poster: "poster.pdf"
 url_project: ""
