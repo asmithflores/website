@@ -35,9 +35,6 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=f_E1Za4AAAAJ&hl=en&oi=sra
-- icon: osf
-  icon_pack: ai
-  link: https://osf.io/uwr56/
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-6755-4986
