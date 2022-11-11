@@ -57,6 +57,6 @@ During my undergraduate program at Boston University, I worked with Dr. Melissa 
 
 <center>
 
-[View my CV](https://docs.google.com/document/d/1dfXXE6UHt0BeD9piTLnx_WWyDGZ06DW8eMqydqOAbuY) \| [View my resume](https://docs.google.com/document/d/1QsAxmN-xwWljaR8n3qEsx0BRefQ7HP5knqGX1HasPwc/edit?usp=sharing)
+[CV](https://docs.google.com/document/d/1dfXXE6UHt0BeD9piTLnx_WWyDGZ06DW8eMqydqOAbuY) \| [resume](https://docs.google.com/document/d/1QsAxmN-xwWljaR8n3qEsx0BRefQ7HP5knqGX1HasPwc/edit?usp=sharing)
 
 <center>
