@@ -48,7 +48,7 @@ social:
   icon_pack: ai
   link: https://docs.google.com/document/d/1dfXXE6UHt0BeD9piTLnx_WWyDGZ06DW8eMqydqOAbuY
 - icon: file-user
-  icon_pack: fab
+  icon_pack: fal
   link: https://docs.google.com/document/d/1QsAxmN-xwWljaR8n3qEsx0BRefQ7HP5knqGX1HasPwc/edit?usp=sharing
 superuser: yes
 bio: My research interests include infant social cognition, emotion reasoning, and object representation.
