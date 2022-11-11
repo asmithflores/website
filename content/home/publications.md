@@ -35,7 +35,3 @@ design:
   view: citation
   columns: '2'
 ---
-
-{{% callout note %}}
-Looking for something specific? [Filter here](./publication/).
-{{% /callout %}}
