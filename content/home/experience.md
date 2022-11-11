@@ -41,12 +41,48 @@ experience:
     description: 
     
   - title: Clinical Assistant
-    company: Boston Child Study Center
+    company: Boston Child Study Center | PCIT Clinic
     company_url: 'https://bostonchildstudycenter.com/child-services/pcit/'
     company_logo: bcsc
     location: Boston, MA
     date_start: '2017-03-15'
     date_end: '2018-05-20'
+    description:
+
+  - title: Honors Thesis
+    company: Boston University | Developing Minds Lab
+    company_url: 'http://www.bu.edu/cdl/developing-minds-lab/'
+    company_logo: dml
+    location: Boston, MA
+    date_start: '2017-09-01'
+    date_end: '2018-05-20'
+    description:
+
+  - title: Head Research Assistant
+    company: Boston University | Developing Minds Lab
+    company_url: 'http://www.bu.edu/cdl/developing-minds-lab/'
+    company_logo: dml
+    location: Boston, MA
+    date_start: '2017-09-01'
+    date_end: '2018-05-20'
+    description:
+
+  - title: Research Intern
+    company: UCLA | Baby Lab
+    company_url: 'https://www.babylab.ucla.edu/'
+    company_logo: ucla
+    location: Los Angeles, CA
+    date_start: '2016-05-20'
+    date_end: '2016-09-01'
+    description:
+
+  - title: Research Assistant
+    company: Boston University | Developing Minds Lab
+    company_url: 'http://www.bu.edu/cdl/developing-minds-lab/'
+    company_logo: dml
+    location: Boston, MA
+    date_start: '2016-01-01'
+    date_end: '2017-09-01'
     description:
 
 design:
